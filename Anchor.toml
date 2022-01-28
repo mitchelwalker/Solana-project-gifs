@@ -8,7 +8,7 @@ myepicproject = "57nGfzEvr91ZdYNAjS1CQeceS7GBpTe1LsZTkKfzRaE9"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/mwalker/.config/solana/id.json"
 
 [scripts]
